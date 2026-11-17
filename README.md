@@ -35,7 +35,6 @@ An iOS app built with **Swift** and **SwiftUI** to help you take care of your pl
 - **SwiftUI**
 - **MVVM** architecture
 - **Xcode**
-- Design made in **Sketch**
 
 ---
 
