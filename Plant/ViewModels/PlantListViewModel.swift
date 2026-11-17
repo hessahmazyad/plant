@@ -65,10 +65,9 @@ class PlantListViewModel: ObservableObject {
     }
 
     func updatePlant(_ plant: Plant) {
-        plant.nextWateringDate = nextDate(for: plant)
         saveContext()
         NotificationManager.shared.cancel(for: plant)
-        NotificationManager.shared.schedule(for: plant, at: plant.nextWateringDate)
+        NotificationManager.shared.schedule(for: plant, at: nextDate(for: plant))
     }
 
     // MARK: - التيك
