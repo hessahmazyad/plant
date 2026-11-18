@@ -65,4 +65,4 @@ Plant/
 
 **Hessah** — [@hessahmazyad](https://github.com/hessahmazyad)
 
-<p align="center"><sub>Feel free to reach out if you have any feedback or suggestions💚</sub></p>
+<p align="center"><sub>Feel free to NOT reach out if you have any feedback or suggestions💚</sub></p>
